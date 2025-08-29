@@ -1,0 +1,39 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Nicola Leali,Genoa,2010-2011,17,Brescia,it ITA,1. Serie A,19th,1,1,90,1.0,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Nicola Leali,Genoa,2011-2012,18,Brescia,it ITA,2. Serie B,8th,16,16,1440,16.0,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,2012-2013,19,Virtus Lanciano,it ITA,2. Serie B,18th,37,37,3316,36.8,0,0,0,0,0,0,2,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Nicola Leali,Genoa,2013-2014,20,Spezia,it ITA,2. Serie B,8th,38,38,3420,38.0,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,2014-2015,21,Cesena,it ITA,1. Serie A,19th,28,28,2460,27.3,0,0,0,0,0,0,1,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Nicola Leali,Genoa,2015-2016,22,Frosinone,it ITA,1. Serie A,19th,33,33,2970,33.0,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Nicola Leali,Genoa,2016-2017,23,Olympiacos,gr GRE,1. Super League,1st,13,12,1106,12.3,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Nicola Leali,Genoa,2017-2018,24,Zulte Waregem,be BEL,1. First Division A,7th,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2017-2018,24,Perugia,it ITA,2. Serie B,8th,19,19,1710,19.0,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Nicola Leali,Genoa,2018-2019,25,Foggia,it ITA,2. Serie B,17th,16,16,1440,16.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,1,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2018-2019,25,Perugia,it ITA,2. Serie B,8th,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Nicola Leali,Genoa,2019-2020,26,Perugia,it ITA,2. Serie B,16th,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Nicola Leali,Genoa,2019-2020,26,Ascoli,it ITA,2. Serie B,14th,35,35,3150,35.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2020-2021,27,Ascoli,it ITA,2. Serie B,16th,35,35,3150,35.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2021-2022,28,Ascoli,it ITA,2. Serie B,6th,36,36,3240,36.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2022-2023,29,Ascoli,it ITA,2. Serie B,12th,25,25,2250,25.0,0,0,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2023-2024,30,Genoa,it ITA,1. Serie A,11th,3,2,176,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2024-2025,31,Genoa,it ITA,1. Serie A,13th,29,29,2610,29.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,2025-2026,32,Genoa,it ITA,1. Serie A,13th,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Nicola Leali,Genoa,16 Seasons,16 Seasons,11 Clubs,,4 Leagues,,371,369,33158,368.4,0,0,0,0,0,0,26,2,0.0,0.0,0.1,0.1,0,2,1,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Nicola Leali,Genoa,Ascoli (4 Seasons),Ascoli (4 Seasons),Ascoli (4 Seasons),,1 League,,131,131,11790,131.0,0,0,0,0,0,0,10,0,0.0,0.0,0.1,0.1,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,Genoa (3 Seasons),Genoa (3 Seasons),Genoa (3 Seasons),,1 League,,33,32,2876,32.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,Perugia (3 Seasons),Perugia (3 Seasons),Perugia (3 Seasons),,1 League,,19,19,1710,19.0,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Brescia (2 Seasons),Brescia (2 Seasons),Brescia (2 Seasons),,2 Leagues,,17,17,1530,17.0,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Spezia (1 Season),Spezia (1 Season),Spezia (1 Season),,1 League,,38,38,3420,38.0,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Virtus Lanciano (1 Season),Virtus Lanciano (1 Season),Virtus Lanciano (1 Season),,1 League,,37,37,3316,36.8,0,0,0,0,0,0,2,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Frosinone (1 Season),Frosinone (1 Season),Frosinone (1 Season),,1 League,,33,33,2970,33.0,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Cesena (1 Season),Cesena (1 Season),Cesena (1 Season),,1 League,,28,28,2460,27.3,0,0,0,0,0,0,1,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Foggia (1 Season),Foggia (1 Season),Foggia (1 Season),,1 League,,16,16,1440,16.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,1,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,Olympiacos (1 Season),Olympiacos (1 Season),Olympiacos (1 Season),,1 League,,13,12,1106,12.3,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,Zulte Waregem (1 Season),Zulte Waregem (1 Season),Zulte Waregem (1 Season),,1 League,,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nicola Leali,Genoa,Serie B (9 Seasons),Serie B (9 Seasons),Serie B (9 Seasons),,,,257,257,23116,256.8,0,0,0,0,0,0,18,1,0.0,0.0,0.1,0.1,0,2,1,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,Serie A (6 Seasons),Serie A (6 Seasons),Serie A (6 Seasons),,,,95,94,8396,93.3,0,0,0,0,0,0,6,1,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Nicola Leali,Genoa,Super League (1 Season),Super League (1 Season),Super League (1 Season),,,,13,12,1106,12.3,0,0,0,0,0,0,2,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Nicola Leali,Genoa,First Division A (1 Season),First Division A (1 Season),First Division A (1 Season),,,,6,6,540,6.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
