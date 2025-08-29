@@ -1,0 +1,21 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Santiago Giménez,Milan,2018-2019,17,Cruz Azul,mx MEX,1. Liga MX,2nd,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Santiago Giménez,Milan,2019-2020,18,Cruz Azul,mx MEX,1. Liga MX,5th,12,8,633,7.0,2,1,3,2,0,0,2,0,2.1,2.1,0.3,2.5,10,11,37,0.28,0.14,0.43,0.28,0.43,0.30,0.05,0.35,0.30,0.35,Matches
+Santiago Giménez,Milan,2020-2021,19,Cruz Azul,mx MEX,1. Liga MX,1st,27,18,1402,15.6,4,3,7,3,1,1,2,0,7.2,6.4,1.8,8.2,27,26,105,0.26,0.19,0.45,0.19,0.39,0.46,0.12,0.58,0.41,0.53,Matches
+Santiago Giménez,Milan,2021-2022,20,Cruz Azul,mx MEX,1. Liga MX,7th,31,11,1430,15.9,7,1,8,6,1,1,6,1,5.1,4.3,1.5,5.8,17,30,79,0.44,0.06,0.50,0.38,0.44,0.32,0.09,0.42,0.27,0.37,Matches
+Santiago Giménez,Milan,2022-2023,21,Cruz Azul,mx MEX,1. Liga MX,9th,5,5,408,4.5,5,0,5,2,3,3,0,0,3.7,1.3,0.5,1.8,4,8,21,1.10,0.00,1.10,0.44,0.44,0.82,0.11,0.93,0.29,0.41,Matches
+Santiago Giménez,Milan,2022-2023,21,Feyenoord,nl NED,1. Eredivisie,1st,32,21,1926,21.4,15,2,17,15,0,0,3,0,14.7,14.7,2.1,16.8,31,28,129,0.70,0.09,0.79,0.70,0.79,0.69,0.10,0.79,0.69,0.79,Matches
+Santiago Giménez,Milan,2023-2024,22,Feyenoord,nl NED,1. Eredivisie,2nd,30,29,2370,26.3,23,6,29,21,2,4,3,0,22.8,19.6,5.0,24.6,47,37,211,0.87,0.23,1.10,0.80,1.03,0.86,0.19,1.06,0.74,0.93,Matches
+Santiago Giménez,Milan,2024-2025,23,Feyenoord,nl NED,1. Eredivisie,3rd,11,10,765,8.5,7,1,8,5,2,2,1,0,7.2,5.6,1.4,7.0,7,8,51,0.82,0.12,0.94,0.59,0.71,0.85,0.17,1.01,0.66,0.83,Matches
+Santiago Giménez,Milan,2024-2025,23,Milan,it ITA,1. Serie A,8th,14,7,669,7.4,5,2,7,5,0,1,3,1,4.8,4.0,0.9,4.9,13,6,38,0.67,0.27,0.94,0.67,0.94,0.64,0.13,0.77,0.54,0.66,Matches
+Santiago Giménez,Milan,2025-2026,24,Milan,it ITA,1. Serie A,15th,1,1,90,1.0,0,0,0,0,0,0,0,0,0.5,0.5,0.1,0.5,0,0,4,0.00,0.00,0.00,0.00,0.00,0.48,0.06,0.54,0.48,0.54,Matches
+Santiago Giménez,Milan,8 Seasons,8 Seasons,3 Clubs,,3 Leagues,,163,110,9693,107.7,68,16,84,59,9,12,20,2,68.1,58.6,13.7,72.3,156,154,675,0.63,0.15,0.78,0.55,0.70,0.63,0.13,0.76,0.54,0.67,
+Santiago Giménez,Milan,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Santiago Giménez,Milan,Cruz Azul (5 Seasons),Cruz Azul (5 Seasons),Cruz Azul (5 Seasons),,1 League,,75,42,3873,43.0,18,5,23,13,5,5,10,1,18.1,14.2,4.2,18.3,58,75,242,0.42,0.12,0.53,0.30,0.42,0.42,0.10,0.52,0.33,0.43,
+Santiago Giménez,Milan,Feyenoord (3 Seasons),Feyenoord (3 Seasons),Feyenoord (3 Seasons),,1 League,,73,60,5061,56.2,45,9,54,41,4,6,7,0,44.7,39.9,8.5,48.5,85,73,391,0.80,0.16,0.96,0.73,0.89,0.80,0.15,0.95,0.71,0.86,
+Santiago Giménez,Milan,Milan (2 Seasons),Milan (2 Seasons),Milan (2 Seasons),,1 League,,15,8,759,8.4,5,2,7,5,0,1,3,1,5.3,4.5,1.0,5.5,13,6,42,0.59,0.24,0.83,0.59,0.83,0.62,0.12,0.74,0.53,0.65,
+Santiago Giménez,Milan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Santiago Giménez,Milan,Liga MX (5 Seasons),Liga MX (5 Seasons),Liga MX (5 Seasons),,,,75,42,3873,43.0,18,5,23,13,5,5,10,1,18.1,14.2,4.2,18.3,58,75,242,0.42,0.12,0.53,0.30,0.42,0.42,0.10,0.52,0.33,0.43,
+Santiago Giménez,Milan,Eredivisie (3 Seasons),Eredivisie (3 Seasons),Eredivisie (3 Seasons),,,,73,60,5061,56.2,45,9,54,41,4,6,7,0,44.7,39.9,8.5,48.5,85,73,391,0.80,0.16,0.96,0.73,0.89,0.80,0.15,0.95,0.71,0.86,
+Santiago Giménez,Milan,Serie A (2 Seasons),Serie A (2 Seasons),Serie A (2 Seasons),,,,15,8,759,8.4,5,2,7,5,0,1,3,1,5.3,4.5,1.0,5.5,13,6,42,0.59,0.24,0.83,0.59,0.83,0.62,0.12,0.74,0.53,0.65,

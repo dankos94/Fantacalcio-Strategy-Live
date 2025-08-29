@@ -1,0 +1,19 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Carlos Augusto,Inter,2018,19,Corinthians,br BRA,1. Série A,13th,7,7,630,7.0,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Carlos Augusto,Inter,2019,20,Corinthians,br BRA,1. Série A,8th,15,13,1200,13.3,1,0,1,1,0,0,2,0,1.1,1.1,0.6,1.6,25,74,45,0.07,0.00,0.07,0.07,0.07,0.08,0.04,0.12,0.08,0.12,Matches
+Carlos Augusto,Inter,2020-2021,21,Monza,it ITA,2. Serie B,3rd,30,28,2406,26.7,3,1,4,3,0,0,1,1,1.3,1.3,2.4,3.8,79,140,154,0.11,0.04,0.15,0.11,0.15,0.05,0.09,0.14,0.05,0.14,Matches
+Carlos Augusto,Inter,2021-2022,22,Monza,it ITA,2. Serie B,4th,32,31,2722,30.2,2,1,3,2,0,0,7,1,2.1,2.1,2.0,4.1,74,135,93,0.07,0.03,0.10,0.07,0.10,0.07,0.07,0.14,0.07,0.14,Matches
+Carlos Augusto,Inter,2022-2023,23,Monza,it ITA,1. Serie A,11th,35,35,3083,34.3,6,5,11,6,0,0,4,0,4.4,4.4,3.7,8.1,87,101,151,0.18,0.15,0.32,0.18,0.32,0.13,0.11,0.24,0.13,0.24,Matches
+Carlos Augusto,Inter,2023-2024,24,Inter,it ITA,1. Serie A,1st,37,14,1725,19.2,0,3,3,0,0,0,1,0,1.0,1.0,2.8,3.9,42,54,88,0.00,0.16,0.16,0.00,0.16,0.05,0.15,0.20,0.05,0.20,Matches
+Carlos Augusto,Inter,2024-2025,25,Inter,it ITA,1. Serie A,2nd,29,15,1691,18.8,3,2,5,3,0,0,1,0,2.8,2.8,1.6,4.4,31,80,83,0.16,0.11,0.27,0.16,0.27,0.15,0.08,0.23,0.15,0.23,Matches
+Carlos Augusto,Inter,2025-2026,26,Inter,it ITA,1. Serie A,1st,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Carlos Augusto,Inter,8 Seasons,8 Seasons,3 Clubs,,3 Leagues,,186,143,13482,149.8,15,12,27,15,0,0,17,2,12.7,12.7,13.1,25.8,338,585,614,0.10,0.08,0.18,0.10,0.18,0.09,0.09,0.18,0.09,0.18,
+Carlos Augusto,Inter,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Carlos Augusto,Inter,Monza (3 Seasons),Monza (3 Seasons),Monza (3 Seasons),,2 Leagues,,97,94,8211,91.2,11,7,18,11,0,0,12,2,7.9,7.9,8.1,16.0,240,376,398,0.12,0.08,0.20,0.12,0.20,0.09,0.09,0.17,0.09,0.17,
+Carlos Augusto,Inter,Inter (3 Seasons),Inter (3 Seasons),Inter (3 Seasons),,1 League,,67,29,3441,38.2,3,5,8,3,0,0,2,0,3.8,3.8,4.4,8.2,73,135,171,0.08,0.13,0.21,0.08,0.21,0.10,0.12,0.22,0.10,0.22,
+Carlos Augusto,Inter,Corinthians (2 Seasons),Corinthians (2 Seasons),Corinthians (2 Seasons),,1 League,,22,20,1830,20.3,1,0,1,1,0,0,3,0,1.1,1.1,0.6,1.6,25,74,45,0.05,0.00,0.05,0.05,0.05,0.08,0.04,0.12,0.08,0.12,
+Carlos Augusto,Inter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Carlos Augusto,Inter,Serie A (4 Seasons),Serie A (4 Seasons),Serie A (4 Seasons),,,,102,64,6524,72.5,9,10,19,9,0,0,6,0,8.2,8.2,8.1,16.3,160,236,322,0.12,0.14,0.26,0.12,0.26,0.11,0.11,0.23,0.11,0.23,
+Carlos Augusto,Inter,Serie B (2 Seasons),Serie B (2 Seasons),Serie B (2 Seasons),,,,62,59,5128,57.0,5,2,7,5,0,0,8,2,3.5,3.5,4.4,7.9,153,275,247,0.09,0.04,0.12,0.09,0.12,0.06,0.08,0.14,0.06,0.14,
+Carlos Augusto,Inter,Série A (2 Seasons),Série A (2 Seasons),Série A (2 Seasons),,,,22,20,1830,20.3,1,0,1,1,0,0,3,0,1.1,1.1,0.6,1.6,25,74,45,0.05,0.00,0.05,0.05,0.05,0.08,0.04,0.12,0.08,0.12,

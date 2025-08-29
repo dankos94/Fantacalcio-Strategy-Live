@@ -1,0 +1,58 @@
+﻿column,meaning
+Player,Nome giocatore
+Team,Team corrente (fallback)
+Season,Ultima stagione valida (YYYY-YYYY)
+Age,Età nella stagione
+Squad,Squadra della stagione
+Comp,Competizione/lega
+Country,Paese della competizione
+MP,Presenze
+Starts,Titolare
+Starts_pct,Quota titolarità su MP
+Min,Minuti
+90s,Numero di 90'
+Gls,Gol
+Ast,Assist
+G+A,Gol+Assist
+G-PK,Gol non su rigore
+PK,Rigori segnati
+PKatt,Rigori tentati
+CrdY,Ammonizioni
+CrdR,Espulsioni
+xG,Expected Goals
+xAG,Expected Assists
+npxG,Non-penalty xG
+xG+xAG,xG + xAG
+npxG+xAG,npxG + xAG
+PrgP,Progressive Passes
+PrgC,Progressive Carries
+PrgR,Progressive Passes Received
+Gls/90,Gol per 90'
+Ast/90,Assist per 90'
+G+A/90,Gol+Assist per 90'
+xG/90,xG per 90'
+xAG/90,xAG per 90'
+xG+xAG/90,xG+xAG per 90'
+xG_diff,Gol - xG
+xA_diff,Assist - xAG
+Trend,Tendenza GA/90 (↗/→/↘)
+NewLeague,Cambio lega/competizione
+Career_MP,Carriera: presenze totali
+Career_Starts,Carriera: titolare
+Career_Min,Carriera: minuti
+Career_90s,Carriera: 90'
+Career_Gls,Carriera: gol
+Career_Ast,Carriera: assist
+Career_G+A,Carriera: gol+assist
+Career_xG,Carriera: xG
+Career_xAG,Carriera: xAG
+Career_xG+xAG,Carriera: xG+xAG
+Career_npxG,Carriera: npxG
+Career_npxG+xAG,Carriera: npxG+xAG
+Career_Gls/90,Carriera: gol/90
+Career_Ast/90,Carriera: assist/90
+Career_G+A/90,Carriera: gol+assist/90
+Career_xG/90,Carriera: xG/90
+Career_xAG/90,Carriera: xAG/90
+Career_xG+xAG/90,Carriera: xG+xAG/90
+SourceFile,Percorso file sorgente

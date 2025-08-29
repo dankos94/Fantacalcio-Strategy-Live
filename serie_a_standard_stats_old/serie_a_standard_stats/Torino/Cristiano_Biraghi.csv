@@ -1,0 +1,35 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Cristiano Biraghi,Torino,2011-2012,18,Juve Stabia,it ITA,2. Serie B,9th,11,6,591,6.6,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Cristiano Biraghi,Torino,2012-2013,19,Cittadella,it ITA,2. Serie B,15th,33,31,2732,30.4,0,0,0,0,0,0,10,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Cristiano Biraghi,Torino,2013-2014,20,Catania,it ITA,1. Serie A,18th,23,17,1558,17.3,0,1,1,0,0,0,3,0,,,,,,,,0.00,0.06,0.06,0.00,0.06,,,,,,Matches
+Cristiano Biraghi,Torino,2014-2015,21,Chievo,it ITA,1. Serie A,14th,18,13,1306,14.5,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Cristiano Biraghi,Torino,2015-2016,22,Chievo,it ITA,1. Serie A,9th,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Cristiano Biraghi,Torino,2015-2016,22,Granada,es ESP,1. La Liga,16th,32,32,2819,31.3,0,1,1,0,0,0,10,1,,,,,,,,0.00,0.03,0.03,0.00,0.03,,,,,,Matches
+Cristiano Biraghi,Torino,2016-2017,23,Pescara,it ITA,1. Serie A,20th,35,33,2987,33.2,1,4,5,0,1,2,11,0,,,,,,,,0.03,0.12,0.15,0.00,0.12,,,,,,Matches
+Cristiano Biraghi,Torino,2017-2018,24,Fiorentina,it ITA,1. Serie A,8th,34,34,2980,33.1,1,4,5,1,0,0,7,0,1.6,1.6,4.5,6.1,54,81,127,0.03,0.12,0.15,0.03,0.15,0.05,0.14,0.18,0.05,0.18,Matches
+Cristiano Biraghi,Torino,2018-2019,25,Fiorentina,it ITA,1. Serie A,16th,36,36,3194,35.5,1,4,5,1,0,0,8,0,1.4,1.4,6.1,7.5,76,119,177,0.03,0.11,0.14,0.03,0.14,0.04,0.17,0.21,0.04,0.21,Matches
+Cristiano Biraghi,Torino,2019-2020,26,Inter,it ITA,1. Serie A,2nd,26,18,1576,17.5,2,6,8,2,0,0,3,0,0.6,0.6,3.9,4.5,46,45,129,0.11,0.34,0.46,0.11,0.46,0.03,0.22,0.26,0.03,0.26,Matches
+Cristiano Biraghi,Torino,2019-2020,26,Fiorentina,it ITA,1. Serie A,10th,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Cristiano Biraghi,Torino,2020-2021,27,Fiorentina,it ITA,1. Serie A,13th,35,31,2803,31.1,1,5,6,1,0,0,8,0,1.9,1.9,6.7,8.6,91,117,225,0.03,0.16,0.19,0.03,0.19,0.06,0.22,0.28,0.06,0.28,Matches
+Cristiano Biraghi,Torino,2021-2022,28,Fiorentina,it ITA,1. Serie A,7th,37,37,3153,35.0,4,1,5,3,1,2,5,1,3.1,1.5,6.1,7.7,61,171,177,0.11,0.03,0.14,0.09,0.11,0.09,0.17,0.26,0.04,0.22,Matches
+Cristiano Biraghi,Torino,2022-2023,29,Fiorentina,it ITA,1. Serie A,8th,33,30,2551,28.3,2,4,6,2,0,1,1,0,1.8,1.1,5.5,6.6,69,161,113,0.07,0.14,0.21,0.07,0.21,0.07,0.19,0.26,0.04,0.23,Matches
+Cristiano Biraghi,Torino,2023-2024,30,Fiorentina,it ITA,1. Serie A,8th,29,27,2356,26.2,2,5,7,2,0,1,8,0,1.6,0.8,3.6,4.4,55,129,109,0.08,0.19,0.27,0.08,0.27,0.06,0.14,0.20,0.03,0.17,Matches
+Cristiano Biraghi,Torino,2024-2025,31,Fiorentina,it ITA,1. Serie A,6th,8,5,433,4.8,1,0,1,1,0,0,1,0,0.2,0.2,0.3,0.5,3,15,17,0.21,0.00,0.21,0.21,0.21,0.03,0.06,0.10,0.03,0.10,Matches
+Cristiano Biraghi,Torino,2024-2025,31,Torino,it ITA,1. Serie A,11th,15,13,1158,12.9,0,0,0,0,0,0,0,0,0.5,0.5,2.7,3.1,24,36,49,0.00,0.00,0.00,0.00,0.00,0.04,0.21,0.24,0.04,0.24,Matches
+Cristiano Biraghi,Torino,2025-2026,32,Torino,it ITA,1. Serie A,20th,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.2,0.3,2,7,5,0.00,0.00,0.00,0.00,0.00,0.03,0.22,0.25,0.03,0.25,Matches
+Cristiano Biraghi,Torino,15 Seasons,15 Seasons,9 Clubs,,3 Leagues,,406,364,32287,358.7,15,35,50,13,2,6,81,2,12.7,9.5,39.7,49.2,481,881,1128,0.04,0.10,0.14,0.04,0.13,0.06,0.18,0.23,0.04,0.22,
+Cristiano Biraghi,Torino,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Cristiano Biraghi,Torino,Fiorentina (8 Seasons),Fiorentina (8 Seasons),Fiorentina (8 Seasons),,1 League,,212,200,17470,194.1,12,23,35,11,1,4,38,1,11.6,8.5,32.9,41.3,409,793,945,0.06,0.12,0.18,0.06,0.18,0.06,0.17,0.23,0.04,0.21,
+Cristiano Biraghi,Torino,Chievo (2 Seasons),Chievo (2 Seasons),Chievo (2 Seasons),,1 League,,18,13,1306,14.5,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Cristiano Biraghi,Torino,Torino (2 Seasons),Torino (2 Seasons),Torino (2 Seasons),,1 League,,16,14,1248,13.9,0,0,0,0,0,0,0,0,0.5,0.5,2.9,3.4,26,43,54,0.00,0.00,0.00,0.00,0.00,0.04,0.21,0.24,0.04,0.24,
+Cristiano Biraghi,Torino,Pescara (1 Season),Pescara (1 Season),Pescara (1 Season),,1 League,,35,33,2987,33.2,1,4,5,0,1,2,11,0,,,,,,,,0.03,0.12,0.15,0.00,0.12,,,,,,
+Cristiano Biraghi,Torino,Cittadella (1 Season),Cittadella (1 Season),Cittadella (1 Season),,1 League,,33,31,2732,30.4,0,0,0,0,0,0,10,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Cristiano Biraghi,Torino,Granada (1 Season),Granada (1 Season),Granada (1 Season),,1 League,,32,32,2819,31.3,0,1,1,0,0,0,10,1,,,,,,,,0.00,0.03,0.03,0.00,0.03,,,,,,
+Cristiano Biraghi,Torino,Inter (1 Season),Inter (1 Season),Inter (1 Season),,1 League,,26,18,1576,17.5,2,6,8,2,0,0,3,0,0.6,0.6,3.9,4.5,46,45,129,0.11,0.34,0.46,0.11,0.46,0.03,0.22,0.26,0.03,0.26,
+Cristiano Biraghi,Torino,Catania (1 Season),Catania (1 Season),Catania (1 Season),,1 League,,23,17,1558,17.3,0,1,1,0,0,0,3,0,,,,,,,,0.00,0.06,0.06,0.00,0.06,,,,,,
+Cristiano Biraghi,Torino,Juve Stabia (1 Season),Juve Stabia (1 Season),Juve Stabia (1 Season),,1 League,,11,6,591,6.6,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Cristiano Biraghi,Torino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cristiano Biraghi,Torino,Serie A (13 Seasons),Serie A (13 Seasons),Serie A (13 Seasons),,,,330,295,26145,290.5,15,34,49,13,2,6,58,1,12.7,9.5,39.7,49.2,481,881,1128,0.05,0.12,0.17,0.04,0.16,0.06,0.18,0.23,0.04,0.22,
+Cristiano Biraghi,Torino,Serie B (2 Seasons),Serie B (2 Seasons),Serie B (2 Seasons),,,,44,37,3323,36.9,0,0,0,0,0,0,13,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Cristiano Biraghi,Torino,La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,32,32,2819,31.3,0,1,1,0,0,0,10,1,,,,,,,,0.00,0.03,0.03,0.00,0.03,,,,,,
