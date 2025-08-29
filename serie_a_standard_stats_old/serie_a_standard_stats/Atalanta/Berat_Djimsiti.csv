@@ -1,0 +1,28 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Berat Djimsiti,Atalanta,2011-2012,18,Zürich,ch SUI,1. Super Lg,6th,2,1,97,1.1,1,0,1,1,0,0,0,0,,,,,,,,0.93,0.00,0.93,0.93,0.93,,,,,,
+Berat Djimsiti,Atalanta,2012-2013,19,Zürich,ch SUI,1. Super Lg,4th,34,32,2907,32.3,0,1,1,0,0,0,3,0,,,,,,,,0.00,0.03,0.03,0.00,0.03,,,,,,
+Berat Djimsiti,Atalanta,2013-2014,20,Zürich,ch SUI,1. Super Lg,5th,26,24,2171,24.1,1,1,2,1,0,0,5,0,,,,,,,,0.04,0.04,0.08,0.04,0.08,,,,,,
+Berat Djimsiti,Atalanta,2014-2015,21,Zürich,ch SUI,1. Super Lg,3rd,33,31,2793,31.0,2,0,2,2,0,0,7,0,,,,,,,,0.06,0.00,0.06,0.06,0.06,,,,,,Matches
+Berat Djimsiti,Atalanta,2015-2016,22,Zürich,ch SUI,1. Super Lg,10th,15,12,1181,13.1,1,0,1,1,0,0,3,0,,,,,,,,0.08,0.00,0.08,0.08,0.08,,,,,,Matches
+Berat Djimsiti,Atalanta,2015-2016,22,Atalanta,it ITA,1. Serie A,13th,3,3,270,3.0,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Berat Djimsiti,Atalanta,2016-2017,23,Avellino,it ITA,2. Serie B,14th,35,35,3124,34.7,0,0,0,0,0,0,4,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Berat Djimsiti,Atalanta,2017-2018,24,Benevento,it ITA,1. Serie A,20th,30,30,2700,30.0,0,1,1,0,0,0,2,0,1.0,1.0,0.6,1.7,26,90,1,0.00,0.03,0.03,0.00,0.03,0.03,0.02,0.06,0.03,0.06,Matches
+Berat Djimsiti,Atalanta,2018-2019,25,Atalanta,it ITA,1. Serie A,3rd,24,20,1807,20.1,1,2,3,1,0,0,3,0,1.0,1.0,2.0,3.0,5,37,2,0.05,0.10,0.15,0.05,0.15,0.05,0.10,0.15,0.05,0.15,Matches
+Berat Djimsiti,Atalanta,2019-2020,26,Atalanta,it ITA,1. Serie A,3rd,34,32,2783,30.9,2,1,3,2,0,0,5,0,2.0,2.0,1.1,3.2,13,93,36,0.06,0.03,0.10,0.06,0.10,0.07,0.04,0.10,0.07,0.10,Matches
+Berat Djimsiti,Atalanta,2020-2021,27,Atalanta,it ITA,1. Serie A,3rd,33,28,2625,29.2,0,3,3,0,0,0,8,0,1.7,1.7,2.3,4.1,42,150,51,0.00,0.10,0.10,0.00,0.10,0.06,0.08,0.14,0.06,0.14,Matches
+Berat Djimsiti,Atalanta,2021-2022,28,Atalanta,it ITA,1. Serie A,8th,31,25,2256,25.1,1,1,2,1,0,0,6,0,1.9,1.9,1.6,3.5,19,100,31,0.04,0.04,0.08,0.04,0.08,0.07,0.07,0.14,0.07,0.14,Matches
+Berat Djimsiti,Atalanta,2022-2023,29,Atalanta,it ITA,1. Serie A,5th,24,20,1797,20.0,0,1,1,0,0,0,3,0,0.6,0.6,0.2,0.8,7,45,9,0.00,0.05,0.05,0.00,0.05,0.03,0.01,0.04,0.03,0.04,Matches
+Berat Djimsiti,Atalanta,2023-2024,30,Atalanta,it ITA,1. Serie A,4th,37,32,2832,31.5,0,1,1,0,0,0,5,0,0.8,0.8,0.7,1.5,6,79,10,0.00,0.03,0.03,0.00,0.03,0.03,0.02,0.05,0.03,0.05,Matches
+Berat Djimsiti,Atalanta,2024-2025,31,Atalanta,it ITA,1. Serie A,3rd,34,32,2640,29.3,1,2,3,1,0,0,6,0,2.7,2.7,1.3,3.9,32,109,42,0.03,0.07,0.10,0.03,0.10,0.09,0.04,0.13,0.09,0.13,Matches
+Berat Djimsiti,Atalanta,2025-2026,32,Atalanta,it ITA,1. Serie A,9th,1,1,90,1.0,0,0,0,0,0,0,0,0,0.4,0.4,0.0,0.4,2,3,2,0.00,0.00,0.00,0.00,0.00,0.42,0.00,0.42,0.42,0.42,Matches
+Berat Djimsiti,Atalanta,15 Seasons,15 Seasons,4 Clubs,,3 Leagues,,396,358,32073,356.4,10,14,24,10,0,0,61,1,12.2,12.2,9.9,22.1,152,706,184,0.03,0.04,0.07,0.03,0.07,0.06,0.05,0.10,0.06,0.10,
+Berat Djimsiti,Atalanta,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Berat Djimsiti,Atalanta,Atalanta (9 Seasons),Atalanta (9 Seasons),Atalanta (9 Seasons),,1 League,,221,193,17100,190.0,5,11,16,5,0,0,37,0,11.1,11.1,9.3,20.5,126,616,183,0.03,0.06,0.08,0.03,0.08,0.06,0.05,0.11,0.06,0.11,
+Berat Djimsiti,Atalanta,Zürich (5 Seasons),Zürich (5 Seasons),Zürich (5 Seasons),,1 League,,110,100,9149,101.7,5,2,7,5,0,0,18,0,,,,,,,,0.05,0.02,0.07,0.05,0.07,,,,,,
+Berat Djimsiti,Atalanta,Avellino (1 Season),Avellino (1 Season),Avellino (1 Season),,1 League,,35,35,3124,34.7,0,0,0,0,0,0,4,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Berat Djimsiti,Atalanta,Benevento (1 Season),Benevento (1 Season),Benevento (1 Season),,1 League,,30,30,2700,30.0,0,1,1,0,0,0,2,0,1.0,1.0,0.6,1.7,26,90,1,0.00,0.03,0.03,0.00,0.03,0.03,0.02,0.06,0.03,0.06,
+Berat Djimsiti,Atalanta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Berat Djimsiti,Atalanta,Serie A (10 Seasons),Serie A (10 Seasons),Serie A (10 Seasons),,,,251,223,19800,220.0,5,12,17,5,0,0,39,0,12.2,12.2,9.9,22.1,152,706,184,0.02,0.05,0.08,0.02,0.08,0.06,0.05,0.10,0.06,0.10,
+Berat Djimsiti,Atalanta,Super Lg (5 Seasons),Super Lg (5 Seasons),Super Lg (5 Seasons),,,,110,100,9149,101.7,5,2,7,5,0,0,18,0,,,,,,,,0.05,0.02,0.07,0.05,0.07,,,,,,
+Berat Djimsiti,Atalanta,Serie B (1 Season),Serie B (1 Season),Serie B (1 Season),,,,35,35,3124,34.7,0,0,0,0,0,0,4,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,

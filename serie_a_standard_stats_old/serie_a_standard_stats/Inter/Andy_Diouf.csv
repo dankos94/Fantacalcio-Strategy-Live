@@ -1,0 +1,19 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Andy Diouf,Inter,2020-2021,17,Rennes,fr FRA,1. Ligue 1,6th,1,0,12,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Andy Diouf,Inter,2021-2022,18,Rennes,fr FRA,1. Ligue 1,4th,5,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.3,0.3,0,0,2,0.00,0.00,0.00,0.00,0.00,0.00,1.97,1.97,0.00,1.97,Matches
+Andy Diouf,Inter,2022-2023,19,Basel,ch SUI,1. Super Lg,5th,34,26,2418,26.9,0,3,3,0,0,0,4,0,,,,,,,,0.00,0.11,0.11,0.00,0.11,,,,,,Matches
+Andy Diouf,Inter,2023-2024,20,Lens,fr FRA,1. Ligue 1,7th,25,16,1314,14.6,1,0,1,1,0,0,2,0,1.5,1.5,1.1,2.6,63,80,55,0.07,0.00,0.07,0.07,0.07,0.10,0.08,0.18,0.10,0.18,Matches
+Andy Diouf,Inter,2024-2025,21,Lens,fr FRA,1. Ligue 1,8th,34,27,2225,24.7,1,2,3,1,0,0,2,0,2.9,2.9,2.8,5.7,82,116,94,0.04,0.08,0.12,0.04,0.12,0.12,0.11,0.23,0.12,0.23,Matches
+Andy Diouf,Inter,2025-2026,22,Lens,fr FRA,1. Ligue 1,10th,1,1,90,1.0,0,0,0,0,0,0,0,0,0.2,0.2,0.0,0.2,3,3,4,0.00,0.00,0.00,0.00,0.00,0.22,0.00,0.22,0.22,0.22,Matches
+Andy Diouf,Inter,2025-2026,22,Inter,it ITA,1. Serie A,1st,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Andy Diouf,Inter,6 Seasons,6 Seasons,4 Clubs,,3 Leagues,,101,70,6085,67.6,2,5,7,2,0,0,9,0,4.7,4.7,4.2,8.9,149,199,155,0.03,0.07,0.10,0.03,0.10,0.12,0.10,0.22,0.12,0.22,
+Andy Diouf,Inter,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Andy Diouf,Inter,Lens (3 Seasons),Lens (3 Seasons),Lens (3 Seasons),,1 League,,60,44,3629,40.3,2,2,4,2,0,0,4,0,4.7,4.7,3.9,8.6,148,199,153,0.05,0.05,0.10,0.05,0.10,0.12,0.10,0.21,0.12,0.21,
+Andy Diouf,Inter,Rennes (2 Seasons),Rennes (2 Seasons),Rennes (2 Seasons),,1 League,,6,0,26,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.3,0.3,1,0,2,0.00,0.00,0.00,0.00,0.00,0.00,1.06,1.06,0.00,1.06,
+Andy Diouf,Inter,Basel (1 Season),Basel (1 Season),Basel (1 Season),,1 League,,34,26,2418,26.9,0,3,3,0,0,0,4,0,,,,,,,,0.00,0.11,0.11,0.00,0.11,,,,,,
+Andy Diouf,Inter,Inter (1 Season),Inter (1 Season),Inter (1 Season),,1 League,,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Andy Diouf,Inter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Andy Diouf,Inter,Ligue 1 (5 Seasons),Ligue 1 (5 Seasons),Ligue 1 (5 Seasons),,,,66,44,3655,40.6,2,2,4,2,0,0,5,0,4.7,4.7,4.2,8.9,149,199,155,0.05,0.05,0.10,0.05,0.10,0.12,0.10,0.22,0.12,0.22,
+Andy Diouf,Inter,Super Lg (1 Season),Super Lg (1 Season),Super Lg (1 Season),,,,34,26,2418,26.9,0,3,3,0,0,0,4,0,,,,,,,,0.00,0.11,0.11,0.00,0.11,,,,,,
+Andy Diouf,Inter,Serie A (1 Season),Serie A (1 Season),Serie A (1 Season),,,,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,

@@ -1,0 +1,41 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Ciro Immobile,Bologna,2008-2009,18,Juventus,it ITA,1. Serie A,2nd,1,0,1,0.0,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Ciro Immobile,Bologna,2009-2010,19,Juventus,it ITA,1. Serie A,7th,2,0,10,0.1,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Ciro Immobile,Bologna,2010-2011,20,Grosseto,it ITA,2. Serie B,15th,16,10,816,9.1,1,0,1,1,0,0,0,0,,,,,,,,0.11,0.00,0.11,0.11,0.11,,,,,,
+Ciro Immobile,Bologna,2010-2011,20,Siena,it ITA,2. Serie B,2nd,4,1,126,1.4,1,0,1,1,0,1,0,1,,,,,,,,0.71,0.00,0.71,0.71,0.71,,,,,,
+Ciro Immobile,Bologna,2011-2012,21,Pescara,it ITA,2. Serie B,1st,37,36,2999,33.3,28,5,33,23,5,6,5,0,,,,,,,,0.84,0.15,0.99,0.69,0.84,,,,,,
+Ciro Immobile,Bologna,2012-2013,22,Genoa,it ITA,1. Serie A,17th,33,21,2026,22.5,5,3,8,5,0,0,5,0,,,,,,,,0.22,0.13,0.36,0.22,0.36,,,,,,Matches
+Ciro Immobile,Bologna,2013-2014,23,Torino,it ITA,1. Serie A,7th,33,29,2586,28.7,22,3,25,22,0,1,10,1,,,,,,,,0.77,0.10,0.87,0.77,0.87,,,,,,Matches
+Ciro Immobile,Bologna,2014-2015,24,Dortmund,de GER,1. Bundesliga,7th,24,9,968,10.8,3,1,4,3,0,1,1,0,,,,,,,,0.28,0.09,0.37,0.28,0.37,,,,,,Matches
+Ciro Immobile,Bologna,2015-2016,25,Torino,it ITA,1. Serie A,12th,14,11,987,11.0,5,2,7,3,2,3,2,0,,,,,,,,0.46,0.18,0.64,0.27,0.46,,,,,,Matches
+Ciro Immobile,Bologna,2015-2016,25,Sevilla,es ESP,1. La Liga,7th,8,4,332,3.7,2,0,2,2,0,0,2,0,,,,,,,,0.54,0.00,0.54,0.54,0.54,,,,,,Matches
+Ciro Immobile,Bologna,2016-2017,26,Lazio,it ITA,1. Serie A,5th,36,35,3118,34.6,23,3,26,17,6,6,5,0,,,,,,,,0.66,0.09,0.75,0.49,0.58,,,,,,Matches
+Ciro Immobile,Bologna,2017-2018,27,Lazio,it ITA,1. Serie A,5th,33,33,2683,29.8,29,6,35,22,7,8,3,1,20.7,14.4,6.6,20.9,77,47,259,0.97,0.20,1.17,0.74,0.94,0.69,0.22,0.91,0.48,0.70,Matches
+Ciro Immobile,Bologna,2018-2019,28,Lazio,it ITA,1. Serie A,8th,36,31,2859,31.8,15,6,21,11,4,4,6,0,15.9,12.7,6.0,18.7,103,74,335,0.47,0.19,0.66,0.35,0.54,0.50,0.19,0.69,0.40,0.59,Matches
+Ciro Immobile,Bologna,2019-2020,29,Lazio,it ITA,1. Serie A,4th,37,36,3170,35.2,36,9,45,22,14,15,8,0,27.2,15.3,6.3,21.6,94,96,253,1.02,0.26,1.28,0.62,0.88,0.77,0.18,0.95,0.44,0.61,Matches
+Ciro Immobile,Bologna,2020-2021,30,Lazio,it ITA,1. Serie A,6th,35,34,2849,31.7,20,6,26,16,4,8,4,1,19.8,13.6,6.2,19.8,74,84,250,0.63,0.19,0.82,0.51,0.69,0.63,0.20,0.82,0.43,0.62,Matches
+Ciro Immobile,Bologna,2021-2022,31,Lazio,it ITA,1. Serie A,5th,31,31,2711,30.1,27,2,29,20,7,9,4,0,21.5,14.3,2.8,17.2,52,54,204,0.90,0.07,0.96,0.66,0.73,0.71,0.09,0.81,0.48,0.57,Matches
+Ciro Immobile,Bologna,2022-2023,32,Lazio,it ITA,1. Serie A,2nd,31,27,2219,24.7,12,5,17,8,4,5,3,0,14.2,10.3,1.9,12.2,40,43,174,0.49,0.20,0.69,0.32,0.53,0.57,0.08,0.65,0.42,0.49,Matches
+Ciro Immobile,Bologna,2023-2024,33,Lazio,it ITA,1. Serie A,7th,31,21,1652,18.4,7,1,8,3,4,4,8,0,9.7,6.6,2.1,8.6,19,39,123,0.38,0.05,0.44,0.16,0.22,0.53,0.11,0.64,0.36,0.47,Matches
+Ciro Immobile,Bologna,2024-2025,34,Beşiktaş,tr TUR,1. Süper Lig,4th,30,26,2011,22.3,15,4,19,7,8,8,4,0,,,,,,,,0.67,0.18,0.85,0.31,0.49,,,,,,Matches
+Ciro Immobile,Bologna,2025-2026,35,Bologna,it ITA,1. Serie A,16th,1,1,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,Matches
+Ciro Immobile,Bologna,18 Seasons,18 Seasons,11 Clubs,,5 Leagues,,473,396,34152,379.5,251,56,307,186,65,79,70,4,129.0,87.2,31.9,119.1,459,437,1598,0.66,0.15,0.81,0.49,0.64,0.64,0.16,0.80,0.43,0.59,
+Ciro Immobile,Bologna,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Ciro Immobile,Bologna,Lazio (8 Seasons),Lazio (8 Seasons),Lazio (8 Seasons),,1 League,,270,248,21261,236.2,169,38,207,119,50,59,41,2,129.0,87.2,31.9,119.1,459,437,1598,0.72,0.16,0.88,0.50,0.66,0.64,0.16,0.80,0.43,0.59,
+Ciro Immobile,Bologna,Torino (2 Seasons),Torino (2 Seasons),Torino (2 Seasons),,1 League,,47,40,3573,39.7,27,5,32,25,2,4,12,1,,,,,,,,0.68,0.13,0.81,0.63,0.76,,,,,,
+Ciro Immobile,Bologna,Juventus (2 Seasons),Juventus (2 Seasons),Juventus (2 Seasons),,1 League,,3,0,11,0.1,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Ciro Immobile,Bologna,Pescara (1 Season),Pescara (1 Season),Pescara (1 Season),,1 League,,37,36,2999,33.3,28,5,33,23,5,6,5,0,,,,,,,,0.84,0.15,0.99,0.69,0.84,,,,,,
+Ciro Immobile,Bologna,Genoa (1 Season),Genoa (1 Season),Genoa (1 Season),,1 League,,33,21,2026,22.5,5,3,8,5,0,0,5,0,,,,,,,,0.22,0.13,0.36,0.22,0.36,,,,,,
+Ciro Immobile,Bologna,Beşiktaş (1 Season),Beşiktaş (1 Season),Beşiktaş (1 Season),,1 League,,30,26,2011,22.3,15,4,19,7,8,8,4,0,,,,,,,,0.67,0.18,0.85,0.31,0.49,,,,,,
+Ciro Immobile,Bologna,Dortmund (1 Season),Dortmund (1 Season),Dortmund (1 Season),,1 League,,24,9,968,10.8,3,1,4,3,0,1,1,0,,,,,,,,0.28,0.09,0.37,0.28,0.37,,,,,,
+Ciro Immobile,Bologna,Grosseto (1 Season),Grosseto (1 Season),Grosseto (1 Season),,1 League,,16,10,816,9.1,1,0,1,1,0,0,0,0,,,,,,,,0.11,0.00,0.11,0.11,0.11,,,,,,
+Ciro Immobile,Bologna,Sevilla (1 Season),Sevilla (1 Season),Sevilla (1 Season),,1 League,,8,4,332,3.7,2,0,2,2,0,0,2,0,,,,,,,,0.54,0.00,0.54,0.54,0.54,,,,,,
+Ciro Immobile,Bologna,Siena (1 Season),Siena (1 Season),Siena (1 Season),,1 League,,4,1,126,1.4,1,0,1,1,0,1,0,1,,,,,,,,0.71,0.00,0.71,0.71,0.71,,,,,,
+Ciro Immobile,Bologna,Bologna (1 Season),Bologna (1 Season),Bologna (1 Season),,1 League,,1,1,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,
+Ciro Immobile,Bologna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ciro Immobile,Bologna,Serie A (14 Seasons),Serie A (14 Seasons),Serie A (14 Seasons),,,,354,310,26900,298.9,201,46,247,149,52,63,58,3,129.0,87.2,31.9,119.1,459,437,1598,0.67,0.15,0.83,0.50,0.65,0.64,0.16,0.80,0.43,0.59,
+Ciro Immobile,Bologna,Serie B (2 Seasons),Serie B (2 Seasons),Serie B (2 Seasons),,,,57,47,3941,43.8,30,5,35,25,5,7,5,1,,,,,,,,0.69,0.11,0.80,0.57,0.69,,,,,,
+Ciro Immobile,Bologna,Süper Lig (1 Season),Süper Lig (1 Season),Süper Lig (1 Season),,,,30,26,2011,22.3,15,4,19,7,8,8,4,0,,,,,,,,0.67,0.18,0.85,0.31,0.49,,,,,,
+Ciro Immobile,Bologna,Bundesliga (1 Season),Bundesliga (1 Season),Bundesliga (1 Season),,,,24,9,968,10.8,3,1,4,3,0,1,1,0,,,,,,,,0.28,0.09,0.37,0.28,0.37,,,,,,
+Ciro Immobile,Bologna,La Liga (1 Season),La Liga (1 Season),La Liga (1 Season),,,,8,4,332,3.7,2,0,2,2,0,0,2,0,,,,,,,,0.54,0.00,0.54,0.54,0.54,,,,,,

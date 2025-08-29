@@ -1,0 +1,35 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Kevin De Bruyne,Napoli,2008-2009,17,Genk,be BEL,1. First Division,8th,2,0,18,0.2,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+Kevin De Bruyne,Napoli,2009-2010,18,Genk,be BEL,1. Pro League,7th,31,17,1570,17.4,2,3,5,2,0,0,3,0,,,,,,,,0.11,0.17,0.29,0.11,0.29,,,,,,Matches
+Kevin De Bruyne,Napoli,2010-2011,19,Genk,be BEL,1. Pro League,1st,32,30,2367,26.3,5,11,16,5,0,0,3,1,,,,,,,,0.19,0.42,0.61,0.19,0.61,,,,,,Matches
+Kevin De Bruyne,Napoli,2011-2012,20,Genk,be BEL,1. Pro League,3rd,28,27,2266,25.2,8,11,19,8,0,0,1,0,,,,,,,,0.32,0.44,0.75,0.32,0.75,,,,,,Matches
+Kevin De Bruyne,Napoli,2012-2013,21,Werder Bremen,de GER,1. Bundesliga,14th,33,33,2965,32.9,10,9,19,10,0,0,4,0,,,,,,,,0.30,0.27,0.58,0.30,0.58,,,,,,Matches
+Kevin De Bruyne,Napoli,2013-2014,22,Chelsea,eng ENG,1. Premier League,3rd,3,2,131,1.5,0,1,1,0,0,0,1,0,,,,,,,,0.00,0.69,0.69,0.00,0.69,,,,,,Matches
+Kevin De Bruyne,Napoli,2013-2014,22,Wolfsburg,de GER,1. Bundesliga,5th,16,16,1413,15.7,3,6,9,3,0,0,4,1,,,,,,,,0.19,0.38,0.57,0.19,0.57,,,,,,Matches
+Kevin De Bruyne,Napoli,2014-2015,23,Wolfsburg,de GER,1. Bundesliga,2nd,34,34,3047,33.9,10,20,30,10,0,0,3,0,,,,,,,,0.30,0.59,0.89,0.30,0.89,,,,,,Matches
+Kevin De Bruyne,Napoli,2015-2016,24,Wolfsburg,de GER,1. Bundesliga,8th,2,2,164,1.8,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Kevin De Bruyne,Napoli,2015-2016,24,Manchester City,eng ENG,1. Premier League,4th,25,22,2002,22.2,7,9,16,7,0,0,2,0,,,,,,,,0.31,0.40,0.72,0.31,0.72,,,,,,Matches
+Kevin De Bruyne,Napoli,2016-2017,25,Manchester City,eng ENG,1. Premier League,3rd,36,33,2877,32.0,6,17,23,6,0,1,4,0,,,,,,,,0.19,0.53,0.72,0.19,0.72,,,,,,Matches
+Kevin De Bruyne,Napoli,2017-2018,26,Manchester City,eng ENG,1. Premier League,1st,37,36,3073,34.1,8,16,24,8,0,0,2,0,5.1,5.1,11.1,16.2,183,388,259,0.23,0.47,0.70,0.23,0.70,0.15,0.32,0.48,0.15,0.48,Matches
+Kevin De Bruyne,Napoli,2018-2019,27,Manchester City,eng ENG,1. Premier League,1st,19,11,975,10.8,2,2,4,2,0,0,2,0,1.4,1.4,5.7,7.0,50,109,88,0.18,0.18,0.37,0.18,0.37,0.13,0.52,0.65,0.13,0.65,Matches
+Kevin De Bruyne,Napoli,2019-2020,28,Manchester City,eng ENG,1. Premier League,2nd,35,32,2791,31.0,13,20,33,11,2,2,3,0,7.3,5.8,20.0,25.8,139,280,257,0.42,0.64,1.06,0.35,1.00,0.24,0.65,0.88,0.19,0.83,Matches
+Kevin De Bruyne,Napoli,2020-2021,29,Manchester City,eng ENG,1. Premier League,1st,25,23,1997,22.2,6,12,18,4,2,3,1,0,9.3,6.9,8.0,14.9,102,213,186,0.27,0.54,0.81,0.18,0.72,0.42,0.36,0.78,0.31,0.67,Matches
+Kevin De Bruyne,Napoli,2021-2022,30,Manchester City,eng ENG,1. Premier League,1st,30,25,2201,24.5,15,8,23,15,0,0,2,0,5.7,5.7,10.4,16.1,84,204,175,0.61,0.33,0.94,0.61,0.94,0.23,0.42,0.66,0.23,0.66,Matches
+Kevin De Bruyne,Napoli,2022-2023,31,Manchester City,eng ENG,1. Premier League,1st,32,28,2417,26.9,7,16,23,7,0,0,1,0,5.6,5.6,13.7,19.3,100,246,245,0.26,0.60,0.86,0.26,0.86,0.21,0.51,0.72,0.21,0.72,Matches
+Kevin De Bruyne,Napoli,2023-2024,32,Manchester City,eng ENG,1. Premier League,1st,18,15,1221,13.6,4,10,14,4,0,0,2,0,2.4,2.4,11.5,14.0,47,111,133,0.29,0.74,1.03,0.29,1.03,0.18,0.85,1.03,0.18,1.03,Matches
+Kevin De Bruyne,Napoli,2024-2025,33,Manchester City,eng ENG,1. Premier League,3rd,28,19,1702,18.9,4,7,11,4,0,0,2,0,5.1,5.1,8.0,13.1,51,157,150,0.21,0.37,0.58,0.21,0.58,0.27,0.42,0.69,0.27,0.69,Matches
+Kevin De Bruyne,Napoli,2025-2026,34,Napoli,it ITA,1. Serie A,3rd,1,1,90,1.0,1,0,1,1,0,0,0,0,0.2,0.2,0.3,0.4,1,4,2,1.00,0.00,1.00,1.00,1.00,0.19,0.26,0.44,0.19,0.44,Matches
+Kevin De Bruyne,Napoli,18 Seasons,18 Seasons,6 Clubs,,4 Leagues,,467,406,35287,392.1,111,178,289,107,4,6,41,2,42.1,38.2,88.6,126.8,757,1712,1495,0.28,0.45,0.74,0.27,0.73,0.23,0.48,0.71,0.21,0.69,
+Kevin De Bruyne,Napoli,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Kevin De Bruyne,Napoli,Manchester City (10 Seasons),Manchester City (10 Seasons),Manchester City (10 Seasons),,1 League,,285,244,21256,236.2,72,117,189,68,4,6,21,0,41.9,38.0,88.4,126.4,756,1708,1493,0.30,0.50,0.80,0.29,0.78,0.23,0.49,0.72,0.21,0.69,
+Kevin De Bruyne,Napoli,Genk (4 Seasons),Genk (4 Seasons),Genk (4 Seasons),,1 League,,93,74,6221,69.1,15,25,40,15,0,0,7,1,,,,,,,,0.22,0.36,0.58,0.22,0.58,,,,,,
+Kevin De Bruyne,Napoli,Wolfsburg (3 Seasons),Wolfsburg (3 Seasons),Wolfsburg (3 Seasons),,1 League,,52,52,4624,51.4,13,26,39,13,0,0,8,1,,,,,,,,0.25,0.51,0.76,0.25,0.76,,,,,,
+Kevin De Bruyne,Napoli,Werder Bremen (1 Season),Werder Bremen (1 Season),Werder Bremen (1 Season),,1 League,,33,33,2965,32.9,10,9,19,10,0,0,4,0,,,,,,,,0.30,0.27,0.58,0.30,0.58,,,,,,
+Kevin De Bruyne,Napoli,Chelsea (1 Season),Chelsea (1 Season),Chelsea (1 Season),,1 League,,3,2,131,1.5,0,1,1,0,0,0,1,0,,,,,,,,0.00,0.69,0.69,0.00,0.69,,,,,,
+Kevin De Bruyne,Napoli,Napoli (1 Season),Napoli (1 Season),Napoli (1 Season),,1 League,,1,1,90,1.0,1,0,1,1,0,0,0,0,0.2,0.2,0.3,0.4,1,4,2,1.00,0.00,1.00,1.00,1.00,0.19,0.26,0.44,0.19,0.44,
+Kevin De Bruyne,Napoli,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Kevin De Bruyne,Napoli,Premier League (11 Seasons),Premier League (11 Seasons),Premier League (11 Seasons),,,,288,246,21387,237.6,72,118,190,68,4,6,22,0,41.9,38.0,88.4,126.4,756,1708,1493,0.30,0.50,0.80,0.29,0.78,0.23,0.49,0.72,0.21,0.69,
+Kevin De Bruyne,Napoli,Pro League (4 Seasons),Pro League (4 Seasons),Pro League (4 Seasons),,,,93,74,6221,69.1,15,25,40,15,0,0,7,1,,,,,,,,0.22,0.36,0.58,0.22,0.58,,,,,,
+Kevin De Bruyne,Napoli,Bundesliga (4 Seasons),Bundesliga (4 Seasons),Bundesliga (4 Seasons),,,,85,85,7589,84.3,23,35,58,23,0,0,12,1,,,,,,,,0.27,0.42,0.69,0.27,0.69,,,,,,
+Kevin De Bruyne,Napoli,Serie A (1 Season),Serie A (1 Season),Serie A (1 Season),,,,1,1,90,1.0,1,0,1,1,0,0,0,0,0.2,0.2,0.3,0.4,1,4,2,1.00,0.00,1.00,1.00,1.00,0.19,0.26,0.44,0.19,0.44,

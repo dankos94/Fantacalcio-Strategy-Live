@@ -1,0 +1,24 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+M'Bala Nzola,Pisa,2017-2018,20,Carpi,it ITA,2. Serie B,11th,14,10,940,10.4,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+M'Bala Nzola,Pisa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M'Bala Nzola,Pisa,2019-2020,22,Trapani,it ITA,2. Serie B,18th,12,9,864,9.6,1,1,2,1,0,0,2,1,2.5,2.5,1.5,4.0,24,17,61,0.10,0.10,0.21,0.10,0.21,0.26,0.15,0.41,0.26,0.41,Matches
+M'Bala Nzola,Pisa,2019-2020,22,Spezia,it ITA,2. Serie B,3rd,17,13,1222,13.6,6,0,6,6,0,0,3,0,3.9,3.9,1.0,4.9,14,34,89,0.44,0.00,0.44,0.44,0.44,0.29,0.07,0.36,0.29,0.36,Matches
+M'Bala Nzola,Pisa,2020-2021,23,Spezia,it ITA,1. Serie A,15th,25,21,1896,21.1,11,3,14,7,4,4,5,0,9.3,6.2,2.1,8.3,26,25,119,0.52,0.14,0.66,0.33,0.47,0.44,0.10,0.54,0.29,0.39,Matches
+M'Bala Nzola,Pisa,2021-2022,24,Spezia,it ITA,1. Serie A,16th,21,10,1068,11.9,2,1,3,2,0,0,2,0,2.4,2.4,1.4,3.8,16,13,63,0.17,0.08,0.25,0.17,0.25,0.20,0.12,0.32,0.20,0.32,Matches
+M'Bala Nzola,Pisa,2022-2023,25,Spezia,it ITA,1. Serie A,17th,31,29,2653,29.5,13,2,15,10,3,3,8,0,11.0,8.6,2.5,11.1,50,50,215,0.44,0.07,0.51,0.34,0.41,0.37,0.09,0.46,0.29,0.38,Matches
+M'Bala Nzola,Pisa,2023-2024,26,Fiorentina,it ITA,1. Serie A,8th,33,15,1552,17.2,3,3,6,2,1,1,2,0,4.5,3.7,1.6,5.4,21,29,143,0.17,0.17,0.35,0.12,0.29,0.26,0.09,0.36,0.22,0.31,Matches
+M'Bala Nzola,Pisa,2024-2025,27,Lens,fr FRA,1. Ligue 1,8th,21,16,1460,16.2,6,1,7,6,0,0,3,1,8.6,8.6,1.3,9.9,26,22,118,0.37,0.06,0.43,0.37,0.43,0.53,0.08,0.61,0.53,0.61,Matches
+M'Bala Nzola,Pisa,2025-2026,28,Pisa,it ITA,1. Serie A,12th,1,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1,0.00,0.00,0.00,0.00,0.00,0.00,0.06,0.06,0.00,0.06,Matches
+M'Bala Nzola,Pisa,8 Seasons,8 Seasons,6 Clubs,,3 Leagues,,175,123,11692,129.9,42,11,53,34,8,8,26,2,42.3,36.0,11.4,47.3,178,190,809,0.32,0.08,0.41,0.26,0.35,0.35,0.10,0.45,0.30,0.40,
+M'Bala Nzola,Pisa,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+M'Bala Nzola,Pisa,Spezia (4 Seasons),Spezia (4 Seasons),Spezia (4 Seasons),,2 Leagues,,94,73,6839,76.0,32,6,38,25,7,7,18,0,26.6,21.1,7.0,28.1,106,122,486,0.42,0.08,0.50,0.33,0.41,0.35,0.09,0.44,0.28,0.37,
+M'Bala Nzola,Pisa,Fiorentina (1 Season),Fiorentina (1 Season),Fiorentina (1 Season),,1 League,,33,15,1552,17.2,3,3,6,2,1,1,2,0,4.5,3.7,1.6,5.4,21,29,143,0.17,0.17,0.35,0.12,0.29,0.26,0.09,0.36,0.22,0.31,
+M'Bala Nzola,Pisa,Lens (1 Season),Lens (1 Season),Lens (1 Season),,1 League,,21,16,1460,16.2,6,1,7,6,0,0,3,1,8.6,8.6,1.3,9.9,26,22,118,0.37,0.06,0.43,0.37,0.43,0.53,0.08,0.61,0.53,0.61,
+M'Bala Nzola,Pisa,Carpi (1 Season),Carpi (1 Season),Carpi (1 Season),,1 League,,14,10,940,10.4,0,0,0,0,0,0,1,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,
+M'Bala Nzola,Pisa,Trapani (1 Season),Trapani (1 Season),Trapani (1 Season),,1 League,,12,9,864,9.6,1,1,2,1,0,0,2,1,2.5,2.5,1.5,4.0,24,17,61,0.10,0.10,0.21,0.10,0.21,0.26,0.15,0.41,0.26,0.41,
+M'Bala Nzola,Pisa,Pisa (1 Season),Pisa (1 Season),Pisa (1 Season),,1 League,,1,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1,0.00,0.00,0.00,0.00,0.00,0.00,0.06,0.06,0.00,0.06,
+M'Bala Nzola,Pisa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+M'Bala Nzola,Pisa,Serie A (5 Seasons),Serie A (5 Seasons),Serie A (5 Seasons),,,,111,75,7206,80.1,29,9,38,21,8,8,17,0,27.2,20.9,7.7,28.6,114,117,541,0.36,0.11,0.47,0.26,0.37,0.34,0.10,0.44,0.26,0.36,
+M'Bala Nzola,Pisa,Serie B (2 Seasons),Serie B (2 Seasons),Serie B (2 Seasons),,,,43,32,3026,33.6,7,1,8,7,0,0,6,1,6.5,6.5,2.4,8.9,38,51,150,0.21,0.03,0.24,0.21,0.24,0.28,0.10,0.38,0.28,0.38,
+M'Bala Nzola,Pisa,Ligue 1 (1 Season),Ligue 1 (1 Season),Ligue 1 (1 Season),,,,21,16,1460,16.2,6,1,7,6,0,0,3,1,8.6,8.6,1.3,9.9,26,22,118,0.37,0.06,0.43,0.37,0.43,0.53,0.08,0.61,0.53,0.61,

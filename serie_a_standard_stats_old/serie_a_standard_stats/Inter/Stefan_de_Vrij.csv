@@ -1,0 +1,27 @@
+Player,Team,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 35_level_0
+,,Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Stefan de Vrij,Inter,2009-2010,17,Feyenoord,nl NED,1. Eredivisie,4th,17,15,1359,15.1,1,0,1,1,0,0,2,0,,,,,,,,0.07,0.00,0.07,0.07,0.07,,,,,,Matches
+Stefan de Vrij,Inter,2010-2011,18,Feyenoord,nl NED,1. Eredivisie,10th,30,29,2576,28.6,1,0,1,1,0,0,5,0,,,,,,,,0.03,0.00,0.03,0.03,0.03,,,,,,Matches
+Stefan de Vrij,Inter,2011-2012,19,Feyenoord,nl NED,1. Eredivisie,2nd,30,22,2015,22.4,1,0,1,1,0,0,3,0,,,,,,,,0.04,0.00,0.04,0.04,0.04,,,,,,Matches
+Stefan de Vrij,Inter,2012-2013,20,Feyenoord,nl NED,1. Eredivisie,3rd,26,26,2230,24.8,0,0,0,0,0,0,3,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Stefan de Vrij,Inter,2013-2014,21,Feyenoord,nl NED,1. Eredivisie,2nd,32,32,2842,31.6,4,1,5,4,0,0,3,1,,,,,,,,0.13,0.03,0.16,0.13,0.16,,,,,,Matches
+Stefan de Vrij,Inter,2014-2015,22,Lazio,it ITA,1. Serie A,3rd,30,29,2531,28.1,0,0,0,0,0,0,5,1,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Stefan de Vrij,Inter,2015-2016,23,Lazio,it ITA,1. Serie A,8th,2,2,180,2.0,0,0,0,0,0,0,0,0,,,,,,,,0.00,0.00,0.00,0.00,0.00,,,,,,Matches
+Stefan de Vrij,Inter,2016-2017,24,Lazio,it ITA,1. Serie A,5th,27,27,2268,25.2,2,4,6,2,0,0,3,0,,,,,,,,0.08,0.16,0.24,0.08,0.24,,,,,,Matches
+Stefan de Vrij,Inter,2017-2018,25,Lazio,it ITA,1. Serie A,5th,36,36,3034,33.7,6,0,6,6,0,0,3,0,2.1,2.1,0.3,2.4,15,86,1,0.18,0.00,0.18,0.18,0.18,0.06,0.01,0.07,0.06,0.07,Matches
+Stefan de Vrij,Inter,2018-2019,26,Inter,it ITA,1. Serie A,4th,28,28,2520,28.0,2,0,2,2,0,0,2,0,1.6,1.6,1.1,2.7,15,93,4,0.07,0.00,0.07,0.07,0.07,0.06,0.04,0.10,0.06,0.10,Matches
+Stefan de Vrij,Inter,2019-2020,27,Inter,it ITA,1. Serie A,2nd,34,32,2830,31.4,4,3,7,4,0,0,5,0,2.0,2.0,0.7,2.7,21,94,0,0.13,0.10,0.22,0.13,0.22,0.06,0.02,0.09,0.06,0.09,Matches
+Stefan de Vrij,Inter,2020-2021,28,Inter,it ITA,1. Serie A,1st,32,30,2734,30.4,1,0,1,1,0,0,2,0,1.2,1.2,0.5,1.7,19,94,2,0.03,0.00,0.03,0.03,0.03,0.04,0.01,0.05,0.04,0.05,Matches
+Stefan de Vrij,Inter,2021-2022,29,Inter,it ITA,1. Serie A,2nd,30,28,2410,26.8,0,0,0,0,0,0,3,0,2.6,2.6,0.0,2.6,15,72,1,0.00,0.00,0.00,0.00,0.00,0.10,0.00,0.10,0.10,0.10,Matches
+Stefan de Vrij,Inter,2022-2023,30,Inter,it ITA,1. Serie A,3rd,27,22,1945,21.6,1,0,1,1,0,0,4,0,2.2,2.2,0.2,2.4,13,55,0,0.05,0.00,0.05,0.05,0.05,0.10,0.01,0.11,0.10,0.11,Matches
+Stefan de Vrij,Inter,2023-2024,31,Inter,it ITA,1. Serie A,1st,25,17,1586,17.6,1,0,1,1,0,0,0,0,0.6,0.6,0.3,0.9,6,43,2,0.06,0.00,0.06,0.06,0.06,0.03,0.02,0.05,0.03,0.05,Matches
+Stefan de Vrij,Inter,2024-2025,32,Inter,it ITA,1. Serie A,2nd,26,18,1726,19.2,3,0,3,3,0,0,2,0,1.1,1.1,0.0,1.1,11,76,5,0.16,0.00,0.16,0.16,0.16,0.06,0.00,0.06,0.06,0.06,Matches
+Stefan de Vrij,Inter,2025-2026,33,Inter,it ITA,1. Serie A,1st,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches
+Stefan de Vrij,Inter,17 Seasons,17 Seasons,3 Clubs,,2 Leagues,,432,393,34786,386.5,27,8,35,27,0,0,45,2,13.4,13.4,3.0,16.4,115,613,15,0.07,0.02,0.09,0.07,0.09,0.06,0.01,0.08,0.06,0.08,
+Stefan de Vrij,Inter,,,,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+Stefan de Vrij,Inter,Inter (8 Seasons),Inter (8 Seasons),Inter (8 Seasons),,1 League,,202,175,15751,175.0,12,3,15,12,0,0,18,0,11.3,11.3,2.8,14.1,100,527,14,0.07,0.02,0.09,0.07,0.09,0.06,0.02,0.08,0.06,0.08,
+Stefan de Vrij,Inter,Feyenoord (5 Seasons),Feyenoord (5 Seasons),Feyenoord (5 Seasons),,1 League,,135,124,11022,122.5,7,1,8,7,0,0,16,1,,,,,,,,0.06,0.01,0.07,0.06,0.07,,,,,,
+Stefan de Vrij,Inter,Lazio (4 Seasons),Lazio (4 Seasons),Lazio (4 Seasons),,1 League,,95,94,8013,89.0,8,4,12,8,0,0,11,1,2.1,2.1,0.3,2.4,15,86,1,0.09,0.04,0.13,0.09,0.13,0.06,0.01,0.07,0.06,0.07,
+Stefan de Vrij,Inter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Stefan de Vrij,Inter,Serie A (12 Seasons),Serie A (12 Seasons),Serie A (12 Seasons),,,,297,269,23764,264.0,20,7,27,20,0,0,29,1,13.4,13.4,3.0,16.4,115,613,15,0.08,0.03,0.10,0.08,0.10,0.06,0.01,0.08,0.06,0.08,
+Stefan de Vrij,Inter,Eredivisie (5 Seasons),Eredivisie (5 Seasons),Eredivisie (5 Seasons),,,,135,124,11022,122.5,7,1,8,7,0,0,16,1,,,,,,,,0.06,0.01,0.07,0.06,0.07,,,,,,
