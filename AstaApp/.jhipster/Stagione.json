@@ -1,0 +1,26 @@
+{
+  "annotations": {
+    "changelogDate": "20250830205414"
+  },
+  "applications": "*",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "nome",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "name": "Stagione",
+  "relationships": [
+    {
+      "otherEntityName": "lega",
+      "otherEntityRelationshipName": "stagione",
+      "relationshipName": "lega",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    }
+  ],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

@@ -1,0 +1,54 @@
+{
+  "annotations": {
+    "changelogDate": "20250830205416"
+  },
+  "applications": "*",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "nome",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "name": "Squadra",
+  "relationships": [
+    {
+      "otherEntityName": "coach",
+      "otherEntityRelationshipName": "squadra",
+      "relationshipName": "coach",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "giocatore",
+      "otherEntityRelationshipName": "squadra",
+      "relationshipName": "giocatore",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "roster",
+      "otherEntityRelationshipName": "squadra",
+      "relationshipName": "roster",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "watchList",
+      "otherEntityRelationshipName": "squadra",
+      "relationshipName": "watchList",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "lega",
+      "otherEntityRelationshipName": "squadra",
+      "relationshipName": "lega",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

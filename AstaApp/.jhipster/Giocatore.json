@@ -1,0 +1,254 @@
+{
+  "annotations": {
+    "changelogDate": "20250830205418"
+  },
+  "applications": "*",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "player",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "team",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "season",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "age",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "squad",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "comp",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "country",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "mp",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "starts",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "startsPct",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "minutes",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "nins",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "gls",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "ast",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "gPlusA",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "gPk",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "pk",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "pkatt",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "crdy",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "crdr",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xg",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xag",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "npxg",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xgPlusXag",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "npxgPlusXag",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "prgp",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "prgc",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "prgr",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "glsPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "astPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "gPlusAPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xgPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xagPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xgPlusXagPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xgDiff",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "xaDiff",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "trend",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "newleague",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "sourcefile",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "role",
+      "fieldType": "Role",
+      "fieldValues": "GK,DF,MF,FW"
+    },
+    {
+      "fieldName": "careerMp",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerStarts",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerMin",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "career90s",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerGls",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerAst",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerGPlusA",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerXg",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerXag",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerXgPlusXag",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerNpxg",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerNpxgPlusXag",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerGlsPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerAstPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerGPlusAPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerXgPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerXagPer90",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "careerXgPlusXagPer90",
+      "fieldType": "Long"
+    }
+  ],
+  "name": "Giocatore",
+  "relationships": [
+    {
+      "otherEntityName": "squadra",
+      "otherEntityRelationshipName": "giocatore",
+      "relationshipName": "squadra",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

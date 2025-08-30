@@ -38,8 +38,8 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:h2:mem:AstaAPP;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE;MODE=MYSQL
-    username: AstaAPP
-    password:
+    username: root
+    password: ******
     hikari:
       poolName: Hikari
       auto-commit: false

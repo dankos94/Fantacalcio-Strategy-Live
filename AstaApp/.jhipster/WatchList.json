@@ -1,0 +1,29 @@
+{
+  "annotations": {
+    "changelogDate": "20250830205420"
+  },
+  "applications": "*",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "date",
+      "fieldType": "Instant"
+    },
+    {
+      "fieldName": "version",
+      "fieldType": "String"
+    }
+  ],
+  "name": "WatchList",
+  "relationships": [
+    {
+      "otherEntityName": "squadra",
+      "otherEntityRelationshipName": "watchList",
+      "relationshipName": "squadra",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}

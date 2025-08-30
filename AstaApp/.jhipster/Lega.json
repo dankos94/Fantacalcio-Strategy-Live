@@ -1,0 +1,38 @@
+{
+  "annotations": {
+    "changelogDate": "20250830205415"
+  },
+  "applications": "*",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "nome",
+      "fieldType": "String",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "budget",
+      "fieldType": "Long",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "name": "Lega",
+  "relationships": [
+    {
+      "otherEntityName": "squadra",
+      "otherEntityRelationshipName": "lega",
+      "relationshipName": "squadra",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
+      "otherEntityName": "stagione",
+      "otherEntityRelationshipName": "lega",
+      "relationshipName": "stagione",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "searchEngine": "no",
+  "service": "serviceImpl"
+}
