@@ -238,6 +238,7 @@ export const Dashboard = () => {
                   color="primary"
                   onClick={handlePlayerPurchase}
                   disabled={!selectedSquadra || !selectedGiocatore || !costo || costo <= 0 || loading}
+                  type="button"
                 >
                   {loading ? 'Elaborazione...' : 'Conferma Acquisto'}
                 </Button>
