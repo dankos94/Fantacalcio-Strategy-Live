@@ -107,7 +107,7 @@ export const WatchList = () => {
                   </td>
                   <td>{watchList.date ? <TextFormat type="date" value={watchList.date} format={APP_DATE_FORMAT} /> : null}</td>
                   <td>{watchList.version}</td>
-                  <td>{watchList.squadra ? <Link to={`/squadra/${watchList.squadra.id}`}>{watchList.squadra.id}</Link> : ''}</td>
+                  <td>{watchList.squadra ? <Link to={`/squadra/${watchList.squadra.id}`}>{watchList.squadra.nome}</Link> : ''}</td>
                   <td className="text-end">
                     <div className="btn-group flex-btn-group-container">
                       <Button tag={Link} to={`/watch-list/${watchList.id}`} color="info" size="sm" data-cy="entityDetailsButton">

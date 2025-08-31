@@ -102,7 +102,7 @@ export const Squadra = () => {
                     </Button>
                   </td>
                   <td>{squadra.nome}</td>
-                  <td>{squadra.lega ? <Link to={`/lega/${squadra.lega.id}`}>{squadra.lega.id}</Link> : ''}</td>
+                  <td>{squadra.lega ? <Link to={`/lega/${squadra.lega.id}`}>{squadra.lega.nome}</Link> : ''}</td>
                   <td className="text-end">
                     <div className="btn-group flex-btn-group-container">
                       <Button tag={Link} to={`/squadra/${squadra.id}`} color="info" size="sm" data-cy="entityDetailsButton">

@@ -110,7 +110,7 @@ export const Coach = () => {
                   <td>{coach.nome}</td>
                   <td>{coach.cognome}</td>
                   <td>{coach.itsMe ? 'true' : 'false'}</td>
-                  <td>{coach.squadra ? <Link to={`/squadra/${coach.squadra.id}`}>{coach.squadra.id}</Link> : ''}</td>
+                  <td>{coach.squadra ? <Link to={`/squadra/${coach.squadra.id}`}>{coach.squadra.nome}</Link> : ''}</td>
                   <td className="text-end">
                     <div className="btn-group flex-btn-group-container">
                       <Button tag={Link} to={`/coach/${coach.id}`} color="info" size="sm" data-cy="entityDetailsButton">
