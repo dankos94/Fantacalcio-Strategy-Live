@@ -1,0 +1,115 @@
+
+entity Stagione {
+	nome String required
+}
+
+entity Lega {
+	nome String required
+    budget Long required
+}
+
+entity Squadra {
+	nome String required
+}
+
+entity Coach {
+	nome String required
+    cognome String
+    itsMe Boolean
+}
+
+entity Giocatore {
+  player String
+  team String
+  season String
+  age String
+  squad String
+  comp String
+  country String
+  mp Long
+  starts Long
+  startsPct Long
+  minutes Long
+  nins Long
+  gls Long
+  ast Long
+  gPlusA Long
+  gPk Long
+  pk Long
+  pkatt Long
+  crdy Long
+  crdr Long
+  xg Long
+  xag Long
+  npxg Long
+  xgPlusXag Long
+  npxgPlusXag Long
+  prgp Long
+  prgc Long
+  prgr Long
+  glsPer90 Long
+  astPer90 Long
+  gPlusAPer90 Long
+  xgPer90 Long
+  xagPer90 Long
+  xgPlusXagPer90 Long
+  xgDiff Long
+  xaDiff Long
+  trend String
+  newleague String
+  sourcefile String
+  role Role
+  careerMp Long
+  careerStarts Long
+  careerMin Long
+  career90s Long
+  careerGls Long
+  careerAst Long
+  careerGPlusA Long
+  careerXg Long
+  careerXag Long
+  careerXgPlusXag Long
+  careerNpxg Long
+  careerNpxgPlusXag Long
+  careerGlsPer90 Long
+  careerAstPer90 Long
+  careerGPlusAPer90 Long
+  careerXgPer90 Long
+  careerXagPer90 Long
+  careerXgPlusXagPer90 Long
+}
+
+enum Role {
+	GK, DF, MF, FW
+}
+
+
+entity Roster {
+	full Boolean required
+    port Long required
+    dif Long required
+    cc Long required
+    att Long required
+}
+
+entity WatchList {
+	date Instant
+    version String
+}
+
+
+relationship OneToMany {
+	Stagione to Lega
+    Lega to Squadra
+    Squadra to Coach
+    Squadra to Giocatore
+    Squadra to Roster
+    Squadra to WatchList
+    WatchList to Giocatore
+}
+
+// Use Data Transfer Objects (DTO)
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl

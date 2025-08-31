@@ -26,3 +26,11 @@ export const Home = () => (
     </NavLink>
   </NavItem>
 );
+
+export const DashboardMenu = () => (
+  <NavItem>
+    <NavLink tag={Link} to="/dashboard" className="d-flex align-items-center">
+      <span>📊 Dashboard</span>
+    </NavLink>
+  </NavItem>
+);

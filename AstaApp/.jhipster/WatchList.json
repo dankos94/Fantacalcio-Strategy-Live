@@ -17,6 +17,13 @@
   "name": "WatchList",
   "relationships": [
     {
+      "otherEntityName": "giocatore",
+      "otherEntityRelationshipName": "watchList",
+      "relationshipName": "giocatore",
+      "relationshipSide": "left",
+      "relationshipType": "one-to-many"
+    },
+    {
       "otherEntityName": "squadra",
       "otherEntityRelationshipName": "watchList",
       "relationshipName": "squadra",

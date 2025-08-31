@@ -1,4 +1,5 @@
 import { ISquadra } from 'app/shared/model/squadra.model';
+import { IWatchList } from 'app/shared/model/watch-list.model';
 import { Role } from 'app/shared/model/enumerations/role.model';
 
 export interface IGiocatore {
@@ -62,6 +63,7 @@ export interface IGiocatore {
   careerXagPer90?: number | null;
   careerXgPlusXagPer90?: number | null;
   squadra?: ISquadra | null;
+  watchList?: IWatchList | null;
 }
 
 export const defaultValue: Readonly<IGiocatore> = {};

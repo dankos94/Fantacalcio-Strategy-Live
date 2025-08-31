@@ -118,7 +118,7 @@ export const Roster = () => {
                   <td>{roster.dif}</td>
                   <td>{roster.cc}</td>
                   <td>{roster.att}</td>
-                  <td>{roster.squadra ? <Link to={`/squadra/${roster.squadra.id}`}>{roster.squadra.nome}</Link> : ''}</td>
+                  <td>{roster.squadra ? <Link to={`/squadra/${roster.squadra.id}`}>{roster.squadra.id}</Link> : ''}</td>
                   <td className="text-end">
                     <div className="btn-group flex-btn-group-container">
                       <Button tag={Link} to={`/roster/${roster.id}`} color="info" size="sm" data-cy="entityDetailsButton">

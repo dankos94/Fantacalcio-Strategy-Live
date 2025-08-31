@@ -261,6 +261,9 @@ export const Giocatore = () => {
                 <th>
                   Squadra <FontAwesomeIcon icon="sort" />
                 </th>
+                <th>
+                  Watch List <FontAwesomeIcon icon="sort" />
+                </th>
                 <th />
               </tr>
             </thead>
@@ -331,6 +334,7 @@ export const Giocatore = () => {
                   <td>{giocatore.careerXagPer90}</td>
                   <td>{giocatore.careerXgPlusXagPer90}</td>
                   <td>{giocatore.squadra ? <Link to={`/squadra/${giocatore.squadra.id}`}>{giocatore.squadra.id}</Link> : ''}</td>
+                  <td>{giocatore.watchList ? <Link to={`/watch-list/${giocatore.watchList.id}`}>{giocatore.watchList.id}</Link> : ''}</td>
                   <td className="text-end">
                     <div className="btn-group flex-btn-group-container">
                       <Button tag={Link} to={`/giocatore/${giocatore.id}`} color="info" size="sm" data-cy="entityDetailsButton">

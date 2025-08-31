@@ -2,6 +2,7 @@ package it.costantino.astaapp.domain;
 
 import static it.costantino.astaapp.domain.GiocatoreTestSamples.*;
 import static it.costantino.astaapp.domain.SquadraTestSamples.*;
+import static it.costantino.astaapp.domain.WatchListTestSamples.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import it.costantino.astaapp.web.rest.TestUtil;
@@ -33,5 +34,17 @@ class GiocatoreTest {
 
         giocatore.squadra(null);
         assertThat(giocatore.getSquadra()).isNull();
+    }
+
+    @Test
+    void watchListTest() {
+        Giocatore giocatore = getGiocatoreRandomSampleGenerator();
+        WatchList watchListBack = getWatchListRandomSampleGenerator();
+
+        giocatore.setWatchList(watchListBack);
+        assertThat(giocatore.getWatchList()).isEqualTo(watchListBack);
+
+        giocatore.watchList(null);
+        assertThat(giocatore.getWatchList()).isNull();
     }
 }

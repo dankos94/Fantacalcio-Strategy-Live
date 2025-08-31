@@ -16,5 +16,12 @@
                                  referencedColumnNames="id"
                                  referencedTableName="squadra"
                                  />
+
+        <addForeignKeyConstraint baseColumnNames="watch_list_id"
+                                 baseTableName="giocatore"
+                                 constraintName="fk_giocatore__watch_list_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="watch_list"
+                                 />
     </changeSet>
 </databaseChangeLog>

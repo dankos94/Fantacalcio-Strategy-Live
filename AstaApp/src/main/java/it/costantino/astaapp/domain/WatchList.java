@@ -4,6 +4,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 import java.io.Serializable;
 import java.time.Instant;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * A WatchList.
@@ -25,6 +27,10 @@ public class WatchList implements Serializable {
 
     @Column(name = "version")
     private String version;
+
+    @OneToMany(fetch = FetchType.LAZY, mappedBy = "watchList")
+    @JsonIgnoreProperties(value = { "squadra", "watchList" }, allowSetters = true)
+    private Set<Giocatore> giocatores = new HashSet<>();
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JsonIgnoreProperties(value = { "coaches", "giocatores", "rosters", "watchLists", "lega" }, allowSetters = true)
@@ -69,6 +75,37 @@ public class WatchList implements Serializable {
 
     public void setVersion(String version) {
         this.version = version;
+    }
+
+    public Set<Giocatore> getGiocatores() {
+        return this.giocatores;
+    }
+
+    public void setGiocatores(Set<Giocatore> giocatores) {
+        if (this.giocatores != null) {
+            this.giocatores.forEach(i -> i.setWatchList(null));
+        }
+        if (giocatores != null) {
+            giocatores.forEach(i -> i.setWatchList(this));
+        }
+        this.giocatores = giocatores;
+    }
+
+    public WatchList giocatores(Set<Giocatore> giocatores) {
+        this.setGiocatores(giocatores);
+        return this;
+    }
+
+    public WatchList addGiocatore(Giocatore giocatore) {
+        this.giocatores.add(giocatore);
+        giocatore.setWatchList(this);
+        return this;
+    }
+
+    public WatchList removeGiocatore(Giocatore giocatore) {
+        this.giocatores.remove(giocatore);
+        giocatore.setWatchList(null);
+        return this;
     }
 
     public Squadra getSquadra() {

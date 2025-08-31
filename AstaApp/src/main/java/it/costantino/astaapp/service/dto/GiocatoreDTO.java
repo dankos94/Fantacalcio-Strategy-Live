@@ -130,6 +130,8 @@ public class GiocatoreDTO implements Serializable {
 
     private SquadraDTO squadra;
 
+    private WatchListDTO watchList;
+
     public Long getId() {
         return id;
     }
@@ -610,6 +612,14 @@ public class GiocatoreDTO implements Serializable {
         this.squadra = squadra;
     }
 
+    public WatchListDTO getWatchList() {
+        return watchList;
+    }
+
+    public void setWatchList(WatchListDTO watchList) {
+        this.watchList = watchList;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) {
@@ -695,6 +705,7 @@ public class GiocatoreDTO implements Serializable {
             ", careerXagPer90=" + getCareerXagPer90() +
             ", careerXgPlusXagPer90=" + getCareerXgPlusXagPer90() +
             ", squadra=" + getSquadra() +
+            ", watchList=" + getWatchList() +
             "}";
     }
 }

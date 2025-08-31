@@ -118,6 +118,7 @@ public class GiocatoreAsserts {
     public static void assertGiocatoreUpdatableRelationshipsEquals(Giocatore expected, Giocatore actual) {
         assertThat(actual)
             .as("Verify Giocatore relationships")
-            .satisfies(a -> assertThat(a.getSquadra()).as("check squadra").isEqualTo(expected.getSquadra()));
+            .satisfies(a -> assertThat(a.getSquadra()).as("check squadra").isEqualTo(expected.getSquadra()))
+            .satisfies(a -> assertThat(a.getWatchList()).as("check watchList").isEqualTo(expected.getWatchList()));
     }
 }

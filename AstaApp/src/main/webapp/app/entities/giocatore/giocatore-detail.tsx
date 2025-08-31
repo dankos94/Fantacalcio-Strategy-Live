@@ -261,6 +261,8 @@ export const GiocatoreDetail = () => {
           <dd>{giocatoreEntity.careerXgPlusXagPer90}</dd>
           <dt>Squadra</dt>
           <dd>{giocatoreEntity.squadra ? giocatoreEntity.squadra.id : ''}</dd>
+          <dt>Watch List</dt>
+          <dd>{giocatoreEntity.watchList ? giocatoreEntity.watchList.id : ''}</dd>
         </dl>
         <Button tag={Link} to="/giocatore" replace color="info" data-cy="entityDetailsBackButton">
           <FontAwesomeIcon icon="arrow-left" /> <span className="d-none d-md-inline">Indietro</span>

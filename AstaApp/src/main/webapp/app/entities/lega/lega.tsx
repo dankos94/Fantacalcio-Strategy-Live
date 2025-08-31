@@ -106,7 +106,7 @@ export const Lega = () => {
                   </td>
                   <td>{lega.nome}</td>
                   <td>{lega.budget}</td>
-                  <td>{lega.stagione ? <Link to={`/stagione/${lega.stagione.id}`}>{lega.stagione.nome}</Link> : ''}</td>
+                  <td>{lega.stagione ? <Link to={`/stagione/${lega.stagione.id}`}>{lega.stagione.id}</Link> : ''}</td>
                   <td className="text-end">
                     <div className="btn-group flex-btn-group-container">
                       <Button tag={Link} to={`/lega/${lega.id}`} color="info" size="sm" data-cy="entityDetailsButton">

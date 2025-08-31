@@ -6,6 +6,7 @@ import Loadable from 'react-loadable';
 import LoginRedirect from 'app/modules/login/login-redirect';
 import Logout from 'app/modules/login/logout';
 import Home from 'app/modules/home/home';
+import Dashboard from 'app/modules/dashboard/dashboard';
 import EntitiesRoutes from 'app/entities/routes';
 import PrivateRoute from 'app/shared/auth/private-route';
 import ErrorBoundaryRoutes from 'app/shared/error/error-boundary-routes';
@@ -23,6 +24,14 @@ const AppRoutes = () => {
     <div className="view-routes">
       <ErrorBoundaryRoutes>
         <Route index element={<Home />} />
+        <Route
+          path="dashboard"
+          element={
+            <PrivateRoute hasAnyAuthorities={[AUTHORITIES.USER]}>
+              <Dashboard />
+            </PrivateRoute>
+          }
+        />
         <Route path="logout" element={<Logout />} />
         <Route
           path="admin/*"

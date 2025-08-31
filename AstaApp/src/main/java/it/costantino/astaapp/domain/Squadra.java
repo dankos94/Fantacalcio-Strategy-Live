@@ -31,7 +31,7 @@ public class Squadra implements Serializable {
     private Set<Coach> coaches = new HashSet<>();
 
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "squadra")
-    @JsonIgnoreProperties(value = { "squadra" }, allowSetters = true)
+    @JsonIgnoreProperties(value = { "squadra", "watchList" }, allowSetters = true)
     private Set<Giocatore> giocatores = new HashSet<>();
 
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "squadra")
@@ -39,7 +39,7 @@ public class Squadra implements Serializable {
     private Set<Roster> rosters = new HashSet<>();
 
     @OneToMany(fetch = FetchType.LAZY, mappedBy = "squadra")
-    @JsonIgnoreProperties(value = { "squadra" }, allowSetters = true)
+    @JsonIgnoreProperties(value = { "giocatores", "squadra" }, allowSetters = true)
     private Set<WatchList> watchLists = new HashSet<>();
 
     @ManyToOne(fetch = FetchType.LAZY)

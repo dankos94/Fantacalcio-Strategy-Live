@@ -247,6 +247,13 @@
       "relationshipName": "squadra",
       "relationshipSide": "right",
       "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityName": "watchList",
+      "otherEntityRelationshipName": "giocatore",
+      "relationshipName": "watchList",
+      "relationshipSide": "right",
+      "relationshipType": "many-to-one"
     }
   ],
   "searchEngine": "no",

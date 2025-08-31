@@ -199,6 +199,10 @@ public class Giocatore implements Serializable {
     @JsonIgnoreProperties(value = { "coaches", "giocatores", "rosters", "watchLists", "lega" }, allowSetters = true)
     private Squadra squadra;
 
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JsonIgnoreProperties(value = { "giocatores", "squadra" }, allowSetters = true)
+    private WatchList watchList;
+
     // jhipster-needle-entity-add-field - JHipster will add fields here
 
     public Long getId() {
@@ -978,6 +982,19 @@ public class Giocatore implements Serializable {
 
     public Giocatore squadra(Squadra squadra) {
         this.setSquadra(squadra);
+        return this;
+    }
+
+    public WatchList getWatchList() {
+        return this.watchList;
+    }
+
+    public void setWatchList(WatchList watchList) {
+        this.watchList = watchList;
+    }
+
+    public Giocatore watchList(WatchList watchList) {
+        this.setWatchList(watchList);
         return this;
     }
 

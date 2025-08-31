@@ -7,6 +7,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useAppDispatch, useAppSelector } from 'app/config/store';
 
 import { getEntities as getSquadras } from 'app/entities/squadra/squadra.reducer';
+import { getEntities as getWatchLists } from 'app/entities/watch-list/watch-list.reducer';
 import { Role } from 'app/shared/model/enumerations/role.model';
 import { createEntity, getEntity, reset, updateEntity } from './giocatore.reducer';
 
@@ -19,6 +20,7 @@ export const GiocatoreUpdate = () => {
   const isNew = id === undefined;
 
   const squadras = useAppSelector(state => state.squadra.entities);
+  const watchLists = useAppSelector(state => state.watchList.entities);
   const giocatoreEntity = useAppSelector(state => state.giocatore.entity);
   const loading = useAppSelector(state => state.giocatore.loading);
   const updating = useAppSelector(state => state.giocatore.updating);
@@ -37,6 +39,7 @@ export const GiocatoreUpdate = () => {
     }
 
     dispatch(getSquadras({}));
+    dispatch(getWatchLists({}));
   }, []);
 
   useEffect(() => {
@@ -195,6 +198,7 @@ export const GiocatoreUpdate = () => {
       ...giocatoreEntity,
       ...values,
       squadra: squadras.find(it => it.id.toString() === values.squadra?.toString()),
+      watchList: watchLists.find(it => it.id.toString() === values.watchList?.toString()),
     };
 
     if (isNew) {
@@ -211,6 +215,7 @@ export const GiocatoreUpdate = () => {
           role: 'GK',
           ...giocatoreEntity,
           squadra: giocatoreEntity?.squadra?.id,
+          watchList: giocatoreEntity?.watchList?.id,
         };
 
   return (
@@ -351,6 +356,16 @@ export const GiocatoreUpdate = () => {
                 <option value="" key="0" />
                 {squadras
                   ? squadras.map(otherEntity => (
+                      <option value={otherEntity.id} key={otherEntity.id}>
+                        {otherEntity.id}
+                      </option>
+                    ))
+                  : null}
+              </ValidatedField>
+              <ValidatedField id="giocatore-watchList" name="watchList" data-cy="watchList" label="Watch List" type="select">
+                <option value="" key="0" />
+                {watchLists
+                  ? watchLists.map(otherEntity => (
                       <option value={otherEntity.id} key={otherEntity.id}>
                         {otherEntity.id}
                       </option>
