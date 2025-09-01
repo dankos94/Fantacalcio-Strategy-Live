@@ -166,4 +166,27 @@ public class GiocatoreResource {
             .headers(HeaderUtil.createEntityDeletionAlert(applicationName, false, ENTITY_NAME, id.toString()))
             .build();
     }
+
+    /**
+     * {@code POST  /giocatores/:id/purchase/:squadraId} : Purchase a player for a team.
+     *
+     * @param id the id of the player to purchase.
+     * @param squadraId the id of the team purchasing the player.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and with body the updated giocatoreDTO,
+     * or with status {@code 400 (Bad Request)} if the player or team is not valid,
+     * or with status {@code 404 (Not Found)} if the player or team is not found.
+     */
+    @PostMapping("/{id}/purchase/{squadraId}")
+    public ResponseEntity<GiocatoreDTO> purchasePlayer(@PathVariable("id") Long id, @PathVariable("squadraId") Long squadraId) {
+        LOG.debug("REST request to purchase Player : {} for Team : {}", id, squadraId);
+        
+        try {
+            GiocatoreDTO result = giocatoreService.purchasePlayer(id, squadraId);
+            return ResponseEntity.ok()
+                .headers(HeaderUtil.createAlert(applicationName, "Player purchased successfully", id.toString()))
+                .body(result);
+        } catch (IllegalArgumentException e) {
+            throw new BadRequestAlertException(e.getMessage(), ENTITY_NAME, "purchaseerror");
+        }
+    }
 }

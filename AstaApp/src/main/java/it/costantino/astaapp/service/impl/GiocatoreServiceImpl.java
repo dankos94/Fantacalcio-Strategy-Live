@@ -1,7 +1,12 @@
 package it.costantino.astaapp.service.impl;
 
 import it.costantino.astaapp.domain.Giocatore;
+import it.costantino.astaapp.domain.Squadra;
+import it.costantino.astaapp.domain.Roster;
+import it.costantino.astaapp.domain.enumeration.Role;
 import it.costantino.astaapp.repository.GiocatoreRepository;
+import it.costantino.astaapp.repository.SquadraRepository;
+import it.costantino.astaapp.repository.RosterRepository;
 import it.costantino.astaapp.service.GiocatoreService;
 import it.costantino.astaapp.service.dto.GiocatoreDTO;
 import it.costantino.astaapp.service.mapper.GiocatoreMapper;
@@ -26,10 +31,17 @@ public class GiocatoreServiceImpl implements GiocatoreService {
     private final GiocatoreRepository giocatoreRepository;
 
     private final GiocatoreMapper giocatoreMapper;
+    
+    private final SquadraRepository squadraRepository;
+    
+    private final RosterRepository rosterRepository;
 
-    public GiocatoreServiceImpl(GiocatoreRepository giocatoreRepository, GiocatoreMapper giocatoreMapper) {
+    public GiocatoreServiceImpl(GiocatoreRepository giocatoreRepository, GiocatoreMapper giocatoreMapper, 
+                               SquadraRepository squadraRepository, RosterRepository rosterRepository) {
         this.giocatoreRepository = giocatoreRepository;
         this.giocatoreMapper = giocatoreMapper;
+        this.squadraRepository = squadraRepository;
+        this.rosterRepository = rosterRepository;
     }
 
     @Override
@@ -81,5 +93,69 @@ public class GiocatoreServiceImpl implements GiocatoreService {
     public void delete(Long id) {
         LOG.debug("Request to delete Giocatore : {}", id);
         giocatoreRepository.deleteById(id);
+    }
+
+    @Override
+    @Transactional
+    public GiocatoreDTO purchasePlayer(Long playerId, Long squadraId) {
+        LOG.debug("Request to purchase Player : {} for Team : {}", playerId, squadraId);
+        
+        // Find the player
+        Giocatore giocatore = giocatoreRepository.findById(playerId)
+            .orElseThrow(() -> new IllegalArgumentException("Player not found with id: " + playerId));
+        
+        // Check if player is already owned by a team
+        if (giocatore.getSquadra() != null) {
+            throw new IllegalArgumentException("Player is already owned by team: " + giocatore.getSquadra().getNome());
+        }
+        
+        // Find the team
+        Squadra squadra = squadraRepository.findById(squadraId)
+            .orElseThrow(() -> new IllegalArgumentException("Team not found with id: " + squadraId));
+        
+        // Assign player to team
+        giocatore.setSquadra(squadra);
+        giocatoreRepository.save(giocatore);
+        
+        // Update roster counters based on player role
+        Role playerRole = giocatore.getRole();
+        if (playerRole != null) {
+            // Find or create roster for the team
+            Optional<Roster> optionalRoster = rosterRepository.findBySquadraId(squadraId);
+            Roster roster;
+            
+            if (optionalRoster.isPresent()) {
+                roster = optionalRoster.get();
+            } else {
+                // Create new roster if it doesn't exist
+                roster = new Roster();
+                roster.setSquadra(squadra);
+                roster.setFull(false);
+                roster.setPort(0L);
+                roster.setDif(0L);
+                roster.setCc(0L);
+                roster.setAtt(0L);
+            }
+            
+            // Increment the appropriate role counter
+            switch (playerRole) {
+                case GK:
+                    roster.setPort(roster.getPort() + 1);
+                    break;
+                case DF:
+                    roster.setDif(roster.getDif() + 1);
+                    break;
+                case MF:
+                    roster.setCc(roster.getCc() + 1);
+                    break;
+                case FW:
+                    roster.setAtt(roster.getAtt() + 1);
+                    break;
+            }
+            
+            rosterRepository.save(roster);
+        }
+        
+        return giocatoreMapper.toDto(giocatore);
     }
 }

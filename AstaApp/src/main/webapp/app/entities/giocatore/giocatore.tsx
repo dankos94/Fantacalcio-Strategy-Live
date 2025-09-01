@@ -53,6 +53,30 @@ export const Giocatore = () => {
     sortEntities();
   };
 
+  const handlePurchasePlayer = async (playerId: number) => {
+    const squadraId = prompt('Inserisci l\'ID della squadra che acquista il giocatore:');
+    if (squadraId) {
+      try {
+        const response = await fetch(`/api/giocatores/${playerId}/purchase/${squadraId}`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        });
+        
+        if (response.ok) {
+          alert('Giocatore acquistato con successo!');
+          getAllEntities(); // Refresh the list
+        } else {
+          alert('Errore durante l\'acquisto del giocatore');
+        }
+      } catch (error) {
+        alert('Errore durante l\'acquisto del giocatore');
+        console.error('Error purchasing player:', error);
+      }
+    }
+  };
+
   const getSortIconByFieldName = (fieldName: string) => {
     const sortFieldName = sortState.sort;
     const order = sortState.order;
@@ -351,6 +375,17 @@ export const Giocatore = () => {
                       >
                         <FontAwesomeIcon icon="trash" /> <span className="d-none d-md-inline">Elimina</span>
                       </Button>
+                      {!giocatore.squadra && (
+                        <Button
+                          onClick={() => handlePurchasePlayer(giocatore.id)}
+                          color="success"
+                          size="sm"
+                          data-cy="purchasePlayerButton"
+                          className="ms-1"
+                        >
+                          <FontAwesomeIcon icon="shopping-cart" /> <span className="d-none d-md-inline">Acquista Giocatore</span>
+                        </Button>
+                      )}
                     </div>
                   </td>
                 </tr>

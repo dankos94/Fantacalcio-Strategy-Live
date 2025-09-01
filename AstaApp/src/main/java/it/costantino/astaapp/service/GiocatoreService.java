@@ -53,4 +53,13 @@ public interface GiocatoreService {
      * @param id the id of the entity.
      */
     void delete(Long id);
+
+    /**
+     * Purchase a player for a team.
+     *
+     * @param playerId the id of the player to purchase.
+     * @param squadraId the id of the team purchasing the player.
+     * @return the updated entity.
+     */
+    GiocatoreDTO purchasePlayer(Long playerId, Long squadraId);
 }
